@@ -16,13 +16,13 @@ This workbook contains 8 pages, one for each toxidrome we make predictions for (
 The pages used in training our GCNN models (cholinergic, convolsant, opioid, and sympathomimetic) contain the each compound's SMILES, model, value, and unit, while the pages used in running the SEA (Anticoagulant, Irritant-corrosive, knockdown, and Solvents-anesthetics-sedatives) only contain the SMILES for each compound.
 
 ### CMPNN Models and Script
-Communicative message passing neural network (CMPNN) approach developed by _Song et al. Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence (IJCAI-20): 2020 (https://github.com/SY575/CMPNN)._
+We used Communicative message passing neural network (CMPNN) approach developed by _Song et al. Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence (IJCAI-20): 2020 (https://github.com/SY575/CMPNN)._
 
 This folder contains 2 main parts: a folder of models called "toxidromes" and a script called run_cmpnn.py.
 
 This script runs the CMPNN using these models.
 ### DMPNN Models and Script
-Directed message passing neural network (DMPNN) approach developed by _Yang et al. Analyzing learned molecular representations for property prediction. J Chem Inf Model 2019, 59(8):3370-3388 (https://chemprop.readthedocs.io/)_.
+We used Directed message passing neural network (DMPNN) approach developed by _Yang et al. Analyzing learned molecular representations for property prediction. J Chem Inf Model 2019, 59(8):3370-3388 (https://chemprop.readthedocs.io/)_.
 
 This folder contains 2 main parts: a folder of models called "toxidromes" and a script called run_dmpnn.py.
 
