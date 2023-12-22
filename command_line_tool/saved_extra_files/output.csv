@@ -1,0 +1,586 @@
+name,smiles,toxidrome,subcategory,value,accuracy,appDomain
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Opioid,pEC50_Mu,7.93,1.12964,False
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Opioid,pEC50_Delta,5.31,0.77384,True
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Opioid,pEC50_Kappa,5.6,0.92802,True
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Sympathomimetic,NET_pIC50_rat,5.67,0.47734,True
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Sympathomimetic,DAT_pIC50_rat,5.89,0.58408,True
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Sympathomimetic,DAT_pIC50_human,5.41,0.45362,True
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Sympathomimetic,B1_pEC50_human,5.71,0.63152,True
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Sympathomimetic,B3_pEC50_human,6.42,0.6671,True
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Sympathomimetic,A1a_pEC50_human,6.58,0.6077999999999999,True
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Sympathomimetic,B2_pEC50_human,5.48,0.6671,True
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Convulsant,pEC50_GluN_e2z1_rat,4.96,0.5485,True
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Convulsant,pEC50_GluN_e3z1_rat,4.94,0.42989999999999995,True
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Convulsant,pEC50_GlyT1_human,5.53,0.50106,True
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Convulsant,pEC50_GlyT2_human,4.62,0.42989999999999995,True
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Convulsant,pIC50_GABAa1b2g2_human,6.51,0.85686,True
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Convulsant,pEC50_GluA_human,5.09,0.63152,True
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Cholinergic,pEC50_rM1,5.97,0.53664,True
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Cholinergic,pEC50_hM1,6.72,0.63152,True
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Cholinergic,pEC50_hM2,6.14,0.6433800000000001,True
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Cholinergic,pEC50_hM4,6.46,0.63152,True
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Cholinergic,pEC50_rM4,5.81,0.8212799999999999,True
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Cholinergic,pEC50_hM5,5.89,0.77384,True
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Cholinergic,pIC50_AChE_HouseMouse,5.01,0.8212799999999999,True
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Cholinergic,pIC50_AChE_human,5.74,1.0584799999999999,False
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Cholinergic,pIC50_AChE_Cow,5.02,0.76198,True
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Cholinergic,pIC50_AChE_eel,4.63,0.5959399999999999,True
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Cholinergic,pIC50_AChE_BrownRat,4.81,0.77384,True
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Cholinergic,pIC50_BChE_human,5.06,0.6433800000000001,True
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Anticholinergic,pIC50_hM2,5.57,0.69082,True
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Anticholinergic,pIC50_rM2,5.36,0.70268,True
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Anticholinergic,pIC50_hM3,5.59,0.61966,True
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Anticholinergic,pIC50_hM4,5.47,0.63152,True
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Anticholinergic,pIC50_hM5,5.71,0.56036,True
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Anticholinergic,pIC50_hM1,5.94,0.6077999999999999,True
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Anticholinergic,pIC50_rM1,5.75,0.6433800000000001,True
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Anticoagulant,,0.74,,False
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,"Irritant, corrosive",,0.74,,False
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Knockdown,,0.74,,False
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,"Solvents, anesthetics, sedatives",,0.79,,False
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,Opioid,pEC50_Mu,8.74,0.88058,True
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,Opioid,pEC50_Delta,6.52,1.0940599999999998,False
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,Opioid,pEC50_Kappa,6.66,0.85686,True
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,Sympathomimetic,NET_pIC50_rat,6.62,0.50106,True
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,Sympathomimetic,DAT_pIC50_rat,6.12,0.77384,True
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,Sympathomimetic,DAT_pIC50_human,6.31,0.51292,True
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,Sympathomimetic,B1_pEC50_human,5.42,0.7857,True
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,Sympathomimetic,B3_pEC50_human,6.9,0.56036,True
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,Sympathomimetic,A1a_pEC50_human,6.31,0.48919999999999997,True
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,Sympathomimetic,B2_pEC50_human,6.42,1.0584799999999999,False
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,Convulsant,pEC50_GluN_e2z1_rat,5.47,0.65524,True
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,Convulsant,pEC50_GluN_e3z1_rat,5.65,0.67896,True
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,Convulsant,pEC50_GlyT1_human,5.88,0.5959399999999999,True
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,Convulsant,pEC50_GlyT2_human,4.54,0.39432,True
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,Convulsant,pIC50_GABAa1b2g2_human,6.53,0.89244,True
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,Convulsant,pEC50_GluA_human,5.21,0.56036,True
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,Cholinergic,pEC50_rM1,6.09,0.5485,True
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,Cholinergic,pEC50_hM1,6.39,0.7857,True
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,Cholinergic,pEC50_hM2,6.12,0.56036,True
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,Cholinergic,pEC50_hM4,6.47,0.56036,True
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,Cholinergic,pEC50_rM4,5.99,0.7382599999999999,True
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,Cholinergic,pEC50_hM5,5.87,0.7857,True
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,Cholinergic,pIC50_AChE_HouseMouse,5.74,0.83314,True
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,Cholinergic,pIC50_AChE_human,5.96,0.89244,True
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,Cholinergic,pIC50_AChE_Cow,5.77,0.88058,True
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,Cholinergic,pIC50_AChE_eel,4.87,0.79756,True
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,Cholinergic,pIC50_AChE_BrownRat,6.25,0.88058,True
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,Cholinergic,pIC50_BChE_human,5.46,0.76198,True
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,Anticholinergic,pIC50_hM2,6.62,0.7263999999999999,True
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,Anticholinergic,pIC50_rM2,5.69,0.79756,True
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,Anticholinergic,pIC50_hM3,7.34,0.9398799999999999,True
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,Anticholinergic,pIC50_hM4,6.54,0.76198,True
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,Anticholinergic,pIC50_hM5,6.48,0.7382599999999999,True
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,Anticholinergic,pIC50_hM1,6.75,0.86872,True
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,Anticholinergic,pIC50_rM1,6.24,0.9161600000000001,True
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,Anticoagulant,,0.74,,False
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,"Irritant, corrosive",,0.74,,False
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,Knockdown,,0.74,,False
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,"Solvents, anesthetics, sedatives",,0.79,,False
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,Opioid,pEC50_Mu,7.71,0.40618,True
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,Opioid,pEC50_Delta,8.09,0.57222,True
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,Opioid,pEC50_Kappa,7.89,0.41804,True
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,Sympathomimetic,NET_pIC50_rat,5.5,0.7263999999999999,True
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,Sympathomimetic,DAT_pIC50_rat,5.41,0.70268,True
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,Sympathomimetic,DAT_pIC50_human,5.85,0.56036,True
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,Sympathomimetic,B1_pEC50_human,5.99,0.6671,True
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,Sympathomimetic,B3_pEC50_human,7.26,0.89244,True
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,Sympathomimetic,A1a_pEC50_human,6.5,0.67896,True
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,Sympathomimetic,B2_pEC50_human,5.56,0.9398799999999999,True
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,Convulsant,pEC50_GluN_e2z1_rat,5.5,0.69082,True
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,Convulsant,pEC50_GluN_e3z1_rat,5.54,0.70268,True
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,Convulsant,pEC50_GlyT1_human,5.59,0.7263999999999999,True
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,Convulsant,pEC50_GlyT2_human,4.18,0.41804,True
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,Convulsant,pIC50_GABAa1b2g2_human,5.87,0.77384,True
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,Convulsant,pEC50_GluA_human,5.6,0.7857,True
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,Cholinergic,pEC50_rM1,6.27,0.45362,True
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,Cholinergic,pEC50_hM1,6.61,0.6433800000000001,True
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,Cholinergic,pEC50_hM2,6.48,0.48919999999999997,True
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,Cholinergic,pEC50_hM4,6.37,0.5959399999999999,True
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,Cholinergic,pEC50_rM4,5.87,0.7382599999999999,True
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,Cholinergic,pEC50_hM5,5.72,0.86872,True
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,Cholinergic,pIC50_AChE_HouseMouse,4.67,0.44176,True
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,Cholinergic,pIC50_AChE_human,5.19,0.65524,True
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,Cholinergic,pIC50_AChE_Cow,4.75,0.45362,True
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,Cholinergic,pIC50_AChE_eel,4.88,0.6433800000000001,True
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,Cholinergic,pIC50_AChE_BrownRat,4.69,0.51292,True
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,Cholinergic,pIC50_BChE_human,5.06,0.46548,True
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,Anticholinergic,pIC50_hM2,5.74,0.53664,True
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,Anticholinergic,pIC50_rM2,5.94,0.57222,True
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,Anticholinergic,pIC50_hM3,5.74,0.56036,True
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,Anticholinergic,pIC50_hM4,5.38,0.47734,True
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,Anticholinergic,pIC50_hM5,5.69,0.47734,True
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,Anticholinergic,pIC50_hM1,5.75,0.50106,True
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,Anticholinergic,pIC50_rM1,6.17,0.5959399999999999,True
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,Anticoagulant,,0.74,,False
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,"Irritant, corrosive",,0.74,,False
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,Knockdown,,0.74,,False
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,"Solvents, anesthetics, sedatives",,0.79,,False
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,Opioid,pEC50_Mu,5.12,1.1652200000000001,False
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,Opioid,pEC50_Delta,4.73,1.21266,False
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,Opioid,pEC50_Kappa,5.84,0.79756,True
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,Sympathomimetic,NET_pIC50_rat,5.91,0.65524,True
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,Sympathomimetic,DAT_pIC50_rat,6.08,0.56036,True
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,Sympathomimetic,DAT_pIC50_human,6.04,0.69082,True
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,Sympathomimetic,B1_pEC50_human,6.17,0.44176,True
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,Sympathomimetic,B3_pEC50_human,7.09,0.76198,True
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,Sympathomimetic,A1a_pEC50_human,7.12,0.56036,True
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,Sympathomimetic,B2_pEC50_human,6.14,0.71454,True
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,Convulsant,pEC50_GluN_e2z1_rat,5.14,0.46548,True
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,Convulsant,pEC50_GluN_e3z1_rat,5.18,0.44176,True
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,Convulsant,pEC50_GlyT1_human,6.03,0.89244,True
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,Convulsant,pEC50_GlyT2_human,5.09,0.39432,True
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,Convulsant,pIC50_GABAa1b2g2_human,6.48,0.85686,True
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,Convulsant,pEC50_GluA_human,5.51,0.5485,True
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,Cholinergic,pEC50_rM1,5.76,0.53664,True
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,Cholinergic,pEC50_hM1,6.95,0.71454,True
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,Cholinergic,pEC50_hM2,5.82,0.6077999999999999,True
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,Cholinergic,pEC50_hM4,6.26,0.7382599999999999,True
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,Cholinergic,pEC50_rM4,6.43,0.8094199999999999,True
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,Cholinergic,pEC50_hM5,5.72,1.01104,False
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,Cholinergic,pIC50_AChE_HouseMouse,4.61,0.845,True
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,Cholinergic,pIC50_AChE_human,6.57,0.845,True
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,Cholinergic,pIC50_AChE_Cow,4.83,0.69082,True
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,Cholinergic,pIC50_AChE_eel,5.1,0.88058,True
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,Cholinergic,pIC50_AChE_BrownRat,5.24,1.01104,False
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,Cholinergic,pIC50_BChE_human,4.57,0.6433800000000001,True
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,Anticholinergic,pIC50_hM2,5.83,0.57222,True
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,Anticholinergic,pIC50_rM2,5.51,0.61966,True
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,Anticholinergic,pIC50_hM3,5.71,0.92802,True
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,Anticholinergic,pIC50_hM4,5.86,0.67896,True
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,Anticholinergic,pIC50_hM5,6.23,0.65524,True
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,Anticholinergic,pIC50_hM1,6.2,0.77384,True
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,Anticholinergic,pIC50_rM1,5.83,1.23638,False
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,Anticoagulant,,0.74,,False
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,"Irritant, corrosive",,0.74,,False
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,Knockdown,,0.74,,False
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,"Solvents, anesthetics, sedatives",,0.79,,False
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,Opioid,pEC50_Mu,4.27,1.1652200000000001,False
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,Opioid,pEC50_Delta,3.89,1.29568,False
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,Opioid,pEC50_Kappa,5.43,0.8212799999999999,True
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,Sympathomimetic,NET_pIC50_rat,5.29,0.5959399999999999,True
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,Sympathomimetic,DAT_pIC50_rat,4.93,0.61966,True
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,Sympathomimetic,DAT_pIC50_human,5.44,0.7501199999999999,True
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,Sympathomimetic,B1_pEC50_human,6.39,0.8094199999999999,True
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,Sympathomimetic,B3_pEC50_human,6.89,1.1415,False
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,Sympathomimetic,A1a_pEC50_human,6.28,0.67896,True
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,Sympathomimetic,B2_pEC50_human,5.38,0.79756,True
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,Convulsant,pEC50_GluN_e2z1_rat,4.66,0.48919999999999997,True
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,Convulsant,pEC50_GluN_e3z1_rat,4.46,0.58408,True
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,Convulsant,pEC50_GlyT1_human,6.15,0.65524,True
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,Convulsant,pEC50_GlyT2_human,4.5,0.39432,True
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,Convulsant,pIC50_GABAa1b2g2_human,6.27,0.9161600000000001,True
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,Convulsant,pEC50_GluA_human,5.33,0.6671,True
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,Cholinergic,pEC50_rM1,5.74,0.70268,True
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,Cholinergic,pEC50_hM1,6.3,0.86872,True
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,Cholinergic,pEC50_hM2,6.03,0.79756,True
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,Cholinergic,pEC50_hM4,6.6,0.7501199999999999,True
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,Cholinergic,pEC50_rM4,6.25,1.1059199999999998,False
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,Cholinergic,pEC50_hM5,5.21,1.24824,False
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,Cholinergic,pIC50_AChE_HouseMouse,4.89,0.9398799999999999,True
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,Cholinergic,pIC50_AChE_human,6.98,0.79756,True
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,Cholinergic,pIC50_AChE_Cow,4.64,1.35498,False
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,Cholinergic,pIC50_AChE_eel,4.79,0.8094199999999999,True
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,Cholinergic,pIC50_AChE_BrownRat,5.83,0.99918,True
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,Cholinergic,pIC50_BChE_human,4.39,0.61966,True
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,Anticholinergic,pIC50_hM2,5.66,0.65524,True
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,Anticholinergic,pIC50_rM2,5.43,0.6671,True
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,Anticholinergic,pIC50_hM3,4.73,0.9517399999999999,True
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,Anticholinergic,pIC50_hM4,5.33,0.67896,True
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,Anticholinergic,pIC50_hM5,5.42,0.6077999999999999,True
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,Anticholinergic,pIC50_hM1,5.55,0.86872,True
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,Anticholinergic,pIC50_rM1,5.48,0.79756,True
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,Anticoagulant,,0.74,,False
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,"Irritant, corrosive",,0.74,,False
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,Knockdown,,0.74,,False
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,"Solvents, anesthetics, sedatives",,0.0,,True
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,Opioid,pEC50_Mu,5.73,1.0229,False
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,Opioid,pEC50_Delta,4.37,1.6277599999999999,False
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,Opioid,pEC50_Kappa,4.9,0.83314,True
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,Sympathomimetic,NET_pIC50_rat,6.44,1.12964,False
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,Sympathomimetic,DAT_pIC50_rat,3.9,0.99918,True
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,Sympathomimetic,DAT_pIC50_human,5.01,0.9635999999999999,True
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,Sympathomimetic,B1_pEC50_human,5.61,1.15336,False
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,Sympathomimetic,B3_pEC50_human,7.11,1.01104,False
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,Sympathomimetic,A1a_pEC50_human,5.36,1.0821999999999998,False
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,Sympathomimetic,B2_pEC50_human,5.44,1.46172,False
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,Convulsant,pEC50_GluN_e2z1_rat,6.96,0.40618,True
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,Convulsant,pEC50_GluN_e3z1_rat,6.8,0.38246,True
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,Convulsant,pEC50_GlyT1_human,5.34,1.3905599999999998,False
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,Convulsant,pEC50_GlyT2_human,4.04,0.97546,True
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,Convulsant,pIC50_GABAa1b2g2_human,5.13,2.01914,False
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,Convulsant,pEC50_GluA_human,5.35,1.0703399999999998,False
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,Cholinergic,pEC50_rM1,5.87,0.845,True
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,Cholinergic,pEC50_hM1,6.28,0.99918,True
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,Cholinergic,pEC50_hM2,6.0,0.7857,True
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,Cholinergic,pEC50_hM4,6.51,0.89244,True
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,Cholinergic,pEC50_rM4,5.92,1.3786999999999998,False
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,Cholinergic,pEC50_hM5,5.38,0.9043,True
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,Cholinergic,pIC50_AChE_HouseMouse,5.49,1.1059199999999998,False
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,Cholinergic,pIC50_AChE_human,6.16,0.98732,True
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,Cholinergic,pIC50_AChE_Cow,5.44,1.28382,False
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,Cholinergic,pIC50_AChE_eel,6.12,0.89244,True
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,Cholinergic,pIC50_AChE_BrownRat,6.6,1.03476,False
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,Cholinergic,pIC50_BChE_human,5.12,0.8094199999999999,True
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,Anticholinergic,pIC50_hM2,6.57,1.1415,False
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,Anticholinergic,pIC50_rM2,5.54,1.0821999999999998,False
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,Anticholinergic,pIC50_hM3,6.46,1.35498,False
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,Anticholinergic,pIC50_hM4,6.19,1.0466199999999999,False
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,Anticholinergic,pIC50_hM5,5.99,1.0821999999999998,False
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,Anticholinergic,pIC50_hM1,6.03,1.1415,False
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,Anticholinergic,pIC50_rM1,5.56,0.845,True
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,Anticoagulant,,0.74,,False
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,"Irritant, corrosive",,0.74,,False
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,Knockdown,,0.74,,False
+CHEMBL2348224,C[C@]1(C(=O)O)C[C@H]1[C@H](N)C(=O)O,"Solvents, anesthetics, sedatives",,0.79,,False
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,Opioid,pEC50_Mu,5.65,0.89244,True
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,Opioid,pEC50_Delta,6.18,0.97546,True
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,Opioid,pEC50_Kappa,6.4,0.71454,True
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,Sympathomimetic,NET_pIC50_rat,5.5,0.5959399999999999,True
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,Sympathomimetic,DAT_pIC50_rat,5.27,0.61966,True
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,Sympathomimetic,DAT_pIC50_human,5.48,0.53664,True
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,Sympathomimetic,B1_pEC50_human,5.86,0.7857,True
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,Sympathomimetic,B3_pEC50_human,7.6,0.6077999999999999,True
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,Sympathomimetic,A1a_pEC50_human,7.0,0.58408,True
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,Sympathomimetic,B2_pEC50_human,5.35,0.76198,True
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,Convulsant,pEC50_GluN_e2z1_rat,5.58,0.3113,True
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,Convulsant,pEC50_GluN_e3z1_rat,5.81,0.32316,True
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,Convulsant,pEC50_GlyT1_human,6.96,0.67896,True
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,Convulsant,pEC50_GlyT2_human,4.89,0.39432,True
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,Convulsant,pIC50_GABAa1b2g2_human,6.41,0.53664,True
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,Convulsant,pEC50_GluA_human,5.73,0.58408,True
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,Cholinergic,pEC50_rM1,6.01,0.45362,True
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,Cholinergic,pEC50_hM1,6.1,0.63152,True
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,Cholinergic,pEC50_hM2,6.09,0.61966,True
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,Cholinergic,pEC50_hM4,6.56,0.51292,True
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,Cholinergic,pEC50_rM4,6.05,0.57222,True
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,Cholinergic,pEC50_hM5,5.95,0.7501199999999999,True
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,Cholinergic,pIC50_AChE_HouseMouse,5.58,0.51292,True
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,Cholinergic,pIC50_AChE_human,5.2,0.5959399999999999,True
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,Cholinergic,pIC50_AChE_Cow,5.61,0.5959399999999999,True
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,Cholinergic,pIC50_AChE_eel,5.05,0.39432,True
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,Cholinergic,pIC50_AChE_BrownRat,5.71,0.52478,True
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,Cholinergic,pIC50_BChE_human,5.26,0.44176,True
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,Anticholinergic,pIC50_hM2,6.06,0.44176,True
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,Anticholinergic,pIC50_rM2,5.79,0.51292,True
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,Anticholinergic,pIC50_hM3,6.27,0.6077999999999999,True
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,Anticholinergic,pIC50_hM4,5.91,0.45362,True
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,Anticholinergic,pIC50_hM5,5.68,0.41804,True
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,Anticholinergic,pIC50_hM1,6.13,0.35874,True
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,Anticholinergic,pIC50_rM1,6.02,0.5959399999999999,True
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,Anticoagulant,,0.74,,False
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,"Irritant, corrosive",,0.74,,False
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,Knockdown,,0.74,,False
+CHEMBL4099073,CCOc1ccc(OCC2c3ccc(OCC(C)C)cc3CCN2C(=O)c2cccc(Cl)c2)cc1,"Solvents, anesthetics, sedatives",,0.79,,False
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Opioid,pEC50_Mu,5.7,1.03476,False
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Opioid,pEC50_Delta,4.79,1.2601,False
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Opioid,pEC50_Kappa,6.09,1.1415,False
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Sympathomimetic,NET_pIC50_rat,4.95,0.6077999999999999,True
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Sympathomimetic,DAT_pIC50_rat,6.25,0.52478,True
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Sympathomimetic,DAT_pIC50_human,5.89,0.58408,True
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Sympathomimetic,B1_pEC50_human,6.45,0.92802,True
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Sympathomimetic,B3_pEC50_human,6.7,0.7263999999999999,True
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Sympathomimetic,A1a_pEC50_human,6.32,0.76198,True
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Sympathomimetic,B2_pEC50_human,6.12,0.98732,True
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Convulsant,pEC50_GluN_e2z1_rat,5.31,0.5959399999999999,True
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Convulsant,pEC50_GluN_e3z1_rat,5.23,0.63152,True
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Convulsant,pEC50_GlyT1_human,5.64,0.67896,True
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Convulsant,pEC50_GlyT2_human,4.43,0.41804,True
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Convulsant,pIC50_GABAa1b2g2_human,6.5,0.7501199999999999,True
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Convulsant,pEC50_GluA_human,5.21,0.6433800000000001,True
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Cholinergic,pEC50_rM1,6.45,0.86872,True
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Cholinergic,pEC50_hM1,6.96,0.67896,True
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Cholinergic,pEC50_hM2,6.35,0.7382599999999999,True
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Cholinergic,pEC50_hM4,6.97,0.67896,True
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Cholinergic,pEC50_rM4,4.98,1.03476,False
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Cholinergic,pEC50_hM5,6.39,1.29568,False
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Cholinergic,pIC50_AChE_HouseMouse,5.77,0.98732,True
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Cholinergic,pIC50_AChE_human,6.04,1.12964,False
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Cholinergic,pIC50_AChE_Cow,5.65,0.92802,True
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Cholinergic,pIC50_AChE_eel,5.36,0.88058,True
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Cholinergic,pIC50_AChE_BrownRat,6.18,1.01104,False
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Cholinergic,pIC50_BChE_human,5.6,0.67896,True
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Anticholinergic,pIC50_hM2,7.94,0.71454,True
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Anticholinergic,pIC50_rM2,6.36,0.71454,True
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Anticholinergic,pIC50_hM3,8.27,0.6077999999999999,True
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Anticholinergic,pIC50_hM4,7.63,0.8094199999999999,True
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Anticholinergic,pIC50_hM5,7.73,0.8212799999999999,True
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Anticholinergic,pIC50_hM1,7.59,0.67896,True
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Anticholinergic,pIC50_rM1,6.5,1.0229,False
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Anticoagulant,,0.74,,False
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,"Irritant, corrosive",,0.74,,False
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Knockdown,,0.74,,False
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,"Solvents, anesthetics, sedatives",,0.79,,False
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,Opioid,pEC50_Mu,4.44,0.69082,True
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,Opioid,pEC50_Delta,4.65,0.88058,True
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,Opioid,pEC50_Kappa,5.91,0.7382599999999999,True
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,Sympathomimetic,NET_pIC50_rat,6.07,0.6433800000000001,True
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,Sympathomimetic,DAT_pIC50_rat,6.29,0.33502,True
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,Sympathomimetic,DAT_pIC50_human,6.0,0.45362,True
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,Sympathomimetic,B1_pEC50_human,7.39,0.88058,True
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,Sympathomimetic,B3_pEC50_human,7.22,0.71454,True
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,Sympathomimetic,A1a_pEC50_human,6.94,0.6077999999999999,True
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,Sympathomimetic,B2_pEC50_human,6.35,0.77384,True
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,Convulsant,pEC50_GluN_e2z1_rat,4.99,0.9398799999999999,True
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,Convulsant,pEC50_GluN_e3z1_rat,4.96,0.7857,True
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,Convulsant,pEC50_GlyT1_human,6.09,0.6433800000000001,True
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,Convulsant,pEC50_GlyT2_human,4.46,0.39432,True
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,Convulsant,pIC50_GABAa1b2g2_human,6.28,0.56036,True
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,Convulsant,pEC50_GluA_human,5.57,0.6077999999999999,True
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,Cholinergic,pEC50_rM1,6.2,0.69082,True
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,Cholinergic,pEC50_hM1,6.38,0.52478,True
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,Cholinergic,pEC50_hM2,6.16,0.7857,True
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,Cholinergic,pEC50_hM4,6.15,0.6671,True
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,Cholinergic,pEC50_rM4,5.64,1.24824,False
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,Cholinergic,pEC50_hM5,5.89,1.0466199999999999,False
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,Cholinergic,pIC50_AChE_HouseMouse,4.68,0.65524,True
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,Cholinergic,pIC50_AChE_human,5.36,0.88058,True
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,Cholinergic,pIC50_AChE_Cow,4.92,0.63152,True
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,Cholinergic,pIC50_AChE_eel,4.65,0.58408,True
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,Cholinergic,pIC50_AChE_BrownRat,4.33,1.0703399999999998,False
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,Cholinergic,pIC50_BChE_human,5.44,0.5959399999999999,True
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,Anticholinergic,pIC50_hM2,5.72,0.5959399999999999,True
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,Anticholinergic,pIC50_rM2,5.94,0.61966,True
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,Anticholinergic,pIC50_hM3,5.71,0.79756,True
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,Anticholinergic,pIC50_hM4,5.29,0.83314,True
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,Anticholinergic,pIC50_hM5,5.72,0.58408,True
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,Anticholinergic,pIC50_hM1,5.49,0.7857,True
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,Anticholinergic,pIC50_rM1,6.03,0.77384,True
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,Anticoagulant,,0.74,,False
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,"Irritant, corrosive",,0.74,,False
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,Knockdown,,0.74,,False
+Duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,"Solvents, anesthetics, sedatives",,0.79,,False
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,Opioid,pEC50_Mu,5.1,0.98732,True
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,Opioid,pEC50_Delta,4.52,0.98732,True
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,Opioid,pEC50_Kappa,4.95,0.86872,True
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,Sympathomimetic,NET_pIC50_rat,5.64,0.39432,True
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,Sympathomimetic,DAT_pIC50_rat,6.89,0.63152,True
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,Sympathomimetic,DAT_pIC50_human,6.55,0.58408,True
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,Sympathomimetic,B1_pEC50_human,6.77,0.67896,True
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,Sympathomimetic,B3_pEC50_human,7.74,0.58408,True
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,Sympathomimetic,A1a_pEC50_human,7.48,0.53664,True
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,Sympathomimetic,B2_pEC50_human,7.34,0.85686,True
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,Convulsant,pEC50_GluN_e2z1_rat,4.85,0.47734,True
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,Convulsant,pEC50_GluN_e3z1_rat,4.89,0.50106,True
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,Convulsant,pEC50_GlyT1_human,5.58,0.7857,True
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,Convulsant,pEC50_GlyT2_human,4.81,0.44176,True
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,Convulsant,pIC50_GABAa1b2g2_human,6.5,0.99918,True
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,Convulsant,pEC50_GluA_human,5.42,0.5959399999999999,True
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,Cholinergic,pEC50_rM1,6.43,0.50106,True
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,Cholinergic,pEC50_hM1,5.8,0.7501199999999999,True
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,Cholinergic,pEC50_hM2,5.87,0.77384,True
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,Cholinergic,pEC50_hM4,6.85,0.58408,True
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,Cholinergic,pEC50_rM4,4.95,0.77384,True
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,Cholinergic,pEC50_hM5,6.03,0.6433800000000001,True
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,Cholinergic,pIC50_AChE_HouseMouse,4.83,0.63152,True
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,Cholinergic,pIC50_AChE_human,4.29,0.63152,True
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,Cholinergic,pIC50_AChE_Cow,4.47,0.7382599999999999,True
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,Cholinergic,pIC50_AChE_eel,4.09,0.70268,True
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,Cholinergic,pIC50_AChE_BrownRat,4.0,0.63152,True
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,Cholinergic,pIC50_BChE_human,4.7,0.5959399999999999,True
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,Anticholinergic,pIC50_hM2,5.64,0.6671,True
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,Anticholinergic,pIC50_rM2,6.15,0.67896,True
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,Anticholinergic,pIC50_hM3,5.77,0.51292,True
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,Anticholinergic,pIC50_hM4,5.65,0.67896,True
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,Anticholinergic,pIC50_hM5,5.51,0.52478,True
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,Anticholinergic,pIC50_hM1,5.46,0.46548,True
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,Anticholinergic,pIC50_rM1,5.31,0.61966,True
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,Anticoagulant,,0.74,,False
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,"Irritant, corrosive",,0.74,,False
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,Knockdown,,0.74,,False
+Cocaine,COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C,"Solvents, anesthetics, sedatives",,0.79,,False
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,Opioid,pEC50_Mu,4.41,0.9161600000000001,True
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,Opioid,pEC50_Delta,4.89,0.9635999999999999,True
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,Opioid,pEC50_Kappa,5.27,0.9161600000000001,True
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,Sympathomimetic,NET_pIC50_rat,5.04,0.5959399999999999,True
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,Sympathomimetic,DAT_pIC50_rat,5.23,0.9517399999999999,True
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,Sympathomimetic,DAT_pIC50_human,5.15,0.76198,True
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,Sympathomimetic,B1_pEC50_human,6.94,0.86872,True
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,Sympathomimetic,B3_pEC50_human,5.36,1.48544,False
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,Sympathomimetic,A1a_pEC50_human,6.71,0.9398799999999999,True
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,Sympathomimetic,B2_pEC50_human,3.55,1.18894,False
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,Convulsant,pEC50_GluN_e2z1_rat,4.27,0.9043,True
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,Convulsant,pEC50_GluN_e3z1_rat,4.09,0.77384,True
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,Convulsant,pEC50_GlyT1_human,4.81,1.01104,False
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,Convulsant,pEC50_GlyT2_human,4.46,0.48919999999999997,True
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,Convulsant,pIC50_GABAa1b2g2_human,5.81,1.12964,False
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,Convulsant,pEC50_GluA_human,4.81,1.01104,False
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,Cholinergic,pEC50_rM1,6.19,0.61966,True
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,Cholinergic,pEC50_hM1,6.29,0.48919999999999997,True
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,Cholinergic,pEC50_hM2,6.49,0.76198,True
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,Cholinergic,pEC50_hM4,6.62,0.50106,True
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,Cholinergic,pEC50_rM4,5.56,0.845,True
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,Cholinergic,pEC50_hM5,5.54,1.0229,False
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,Cholinergic,pIC50_AChE_HouseMouse,4.61,0.65524,True
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,Cholinergic,pIC50_AChE_human,4.82,0.85686,True
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,Cholinergic,pIC50_AChE_Cow,5.25,0.7263999999999999,True
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,Cholinergic,pIC50_AChE_eel,4.8,0.70268,True
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,Cholinergic,pIC50_AChE_BrownRat,5.63,0.92802,True
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,Cholinergic,pIC50_BChE_human,4.91,0.79756,True
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,Anticholinergic,pIC50_hM2,5.81,0.6671,True
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,Anticholinergic,pIC50_rM2,5.87,0.7263999999999999,True
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,Anticholinergic,pIC50_hM3,5.78,0.67896,True
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,Anticholinergic,pIC50_hM4,5.62,0.58408,True
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,Anticholinergic,pIC50_hM5,5.67,0.61966,True
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,Anticholinergic,pIC50_hM1,5.82,0.76198,True
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,Anticholinergic,pIC50_rM1,6.0,0.76198,True
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,Anticoagulant,,0.74,,False
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,"Irritant, corrosive",,0.74,,False
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,Knockdown,,0.74,,False
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,"Solvents, anesthetics, sedatives",,0.79,,False
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,Opioid,pEC50_Mu,4.95,0.53664,True
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,Opioid,pEC50_Delta,4.59,0.7263999999999999,True
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,Opioid,pEC50_Kappa,5.65,0.9161600000000001,True
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,Sympathomimetic,NET_pIC50_rat,6.06,0.6433800000000001,True
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,Sympathomimetic,DAT_pIC50_rat,5.91,0.63152,True
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,Sympathomimetic,DAT_pIC50_human,5.77,0.5485,True
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,Sympathomimetic,B1_pEC50_human,5.8,0.63152,True
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,Sympathomimetic,B3_pEC50_human,6.78,0.57222,True
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,Sympathomimetic,A1a_pEC50_human,6.62,0.65524,True
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,Sympathomimetic,B2_pEC50_human,5.5,0.9161600000000001,True
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,Convulsant,pEC50_GluN_e2z1_rat,4.81,0.48919999999999997,True
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,Convulsant,pEC50_GluN_e3z1_rat,4.86,0.52478,True
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,Convulsant,pEC50_GlyT1_human,5.76,0.6671,True
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,Convulsant,pEC50_GlyT2_human,4.57,0.38246,True
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,Convulsant,pIC50_GABAa1b2g2_human,5.85,0.83314,True
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,Convulsant,pEC50_GluA_human,4.99,0.51292,True
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,Cholinergic,pEC50_rM1,6.03,0.39432,True
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,Cholinergic,pEC50_hM1,6.49,0.7501199999999999,True
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,Cholinergic,pEC50_hM2,6.19,0.50106,True
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,Cholinergic,pEC50_hM4,6.56,0.50106,True
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,Cholinergic,pEC50_rM4,5.87,0.6671,True
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,Cholinergic,pEC50_hM5,5.65,0.8094199999999999,True
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,Cholinergic,pIC50_AChE_HouseMouse,5.34,0.56036,True
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,Cholinergic,pIC50_AChE_human,5.52,0.8094199999999999,True
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,Cholinergic,pIC50_AChE_Cow,5.25,0.63152,True
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,Cholinergic,pIC50_AChE_eel,4.82,0.46548,True
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,Cholinergic,pIC50_AChE_BrownRat,5.19,0.7382599999999999,True
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,Cholinergic,pIC50_BChE_human,5.26,0.57222,True
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,Anticholinergic,pIC50_hM2,6.12,0.45362,True
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,Anticholinergic,pIC50_rM2,5.94,0.58408,True
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,Anticholinergic,pIC50_hM3,6.16,0.47734,True
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,Anticholinergic,pIC50_hM4,5.83,0.46548,True
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,Anticholinergic,pIC50_hM5,5.86,0.45362,True
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,Anticholinergic,pIC50_hM1,6.24,0.52478,True
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,Anticholinergic,pIC50_rM1,5.93,0.67896,True
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,Anticoagulant,,0.74,,False
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,"Irritant, corrosive",,0.74,,False
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,Knockdown,,0.74,,False
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,"Solvents, anesthetics, sedatives",,0.79,,False
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,Opioid,pEC50_Mu,6.39,0.8212799999999999,True
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,Opioid,pEC50_Delta,5.92,1.01104,False
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,Opioid,pEC50_Kappa,6.91,1.03476,False
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,Sympathomimetic,NET_pIC50_rat,5.51,0.57222,True
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,Sympathomimetic,DAT_pIC50_rat,5.33,0.6671,True
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,Sympathomimetic,DAT_pIC50_human,5.53,0.58408,True
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,Sympathomimetic,B1_pEC50_human,6.24,0.63152,True
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,Sympathomimetic,B3_pEC50_human,6.41,0.76198,True
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,Sympathomimetic,A1a_pEC50_human,6.55,0.61966,True
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,Sympathomimetic,B2_pEC50_human,5.93,0.67896,True
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,Convulsant,pEC50_GluN_e2z1_rat,4.78,0.67896,True
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,Convulsant,pEC50_GluN_e3z1_rat,4.58,0.53664,True
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,Convulsant,pEC50_GlyT1_human,4.78,0.61966,True
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,Convulsant,pEC50_GlyT2_human,4.57,0.48919999999999997,True
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,Convulsant,pIC50_GABAa1b2g2_human,6.0,1.01104,False
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,Convulsant,pEC50_GluA_human,4.93,0.6433800000000001,True
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,Cholinergic,pEC50_rM1,6.1,0.5485,True
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,Cholinergic,pEC50_hM1,6.04,0.76198,True
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,Cholinergic,pEC50_hM2,5.97,0.56036,True
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,Cholinergic,pEC50_hM4,6.63,0.57222,True
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,Cholinergic,pEC50_rM4,5.55,0.8212799999999999,True
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,Cholinergic,pEC50_hM5,5.67,1.0584799999999999,False
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,Cholinergic,pIC50_AChE_HouseMouse,5.42,0.39432,True
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,Cholinergic,pIC50_AChE_human,4.31,0.53664,True
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,Cholinergic,pIC50_AChE_Cow,5.68,0.52478,True
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,Cholinergic,pIC50_AChE_eel,4.68,0.67896,True
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,Cholinergic,pIC50_AChE_BrownRat,5.22,0.56036,True
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,Cholinergic,pIC50_BChE_human,5.99,0.48919999999999997,True
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,Anticholinergic,pIC50_hM2,5.94,0.5485,True
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,Anticholinergic,pIC50_rM2,5.96,0.77384,True
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,Anticholinergic,pIC50_hM3,6.17,0.57222,True
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,Anticholinergic,pIC50_hM4,5.81,0.56036,True
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,Anticholinergic,pIC50_hM5,5.81,0.53664,True
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,Anticholinergic,pIC50_hM1,5.9,0.65524,True
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,Anticholinergic,pIC50_rM1,5.96,0.65524,True
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,Anticoagulant,,0.74,,False
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,"Irritant, corrosive",,0.74,,False
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,Knockdown,,0.74,,False
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,"Solvents, anesthetics, sedatives",,0.79,,False
+Phosgene Oxime,ON=C(Cl)Cl,Opioid,pEC50_Mu,5.54,0.9635999999999999,True
+Phosgene Oxime,ON=C(Cl)Cl,Opioid,pEC50_Delta,5.5,1.0466199999999999,False
+Phosgene Oxime,ON=C(Cl)Cl,Opioid,pEC50_Kappa,7.09,0.92802,True
+Phosgene Oxime,ON=C(Cl)Cl,Sympathomimetic,NET_pIC50_rat,4.29,0.98732,True
+Phosgene Oxime,ON=C(Cl)Cl,Sympathomimetic,DAT_pIC50_rat,3.73,1.03476,False
+Phosgene Oxime,ON=C(Cl)Cl,Sympathomimetic,DAT_pIC50_human,5.13,0.70268,True
+Phosgene Oxime,ON=C(Cl)Cl,Sympathomimetic,B1_pEC50_human,6.48,1.22452,False
+Phosgene Oxime,ON=C(Cl)Cl,Sympathomimetic,B3_pEC50_human,4.84,1.5566,False
+Phosgene Oxime,ON=C(Cl)Cl,Sympathomimetic,A1a_pEC50_human,5.3,1.0229,False
+Phosgene Oxime,ON=C(Cl)Cl,Sympathomimetic,B2_pEC50_human,4.99,1.28382,False
+Phosgene Oxime,ON=C(Cl)Cl,Convulsant,pEC50_GluN_e2z1_rat,5.3,0.8094199999999999,True
+Phosgene Oxime,ON=C(Cl)Cl,Convulsant,pEC50_GluN_e3z1_rat,4.87,0.85686,True
+Phosgene Oxime,ON=C(Cl)Cl,Convulsant,pEC50_GlyT1_human,4.61,0.9517399999999999,True
+Phosgene Oxime,ON=C(Cl)Cl,Convulsant,pEC50_GlyT2_human,4.91,0.5485,True
+Phosgene Oxime,ON=C(Cl)Cl,Convulsant,pIC50_GABAa1b2g2_human,5.52,1.0229,False
+Phosgene Oxime,ON=C(Cl)Cl,Convulsant,pEC50_GluA_human,4.45,0.70268,True
+Phosgene Oxime,ON=C(Cl)Cl,Cholinergic,pEC50_rM1,6.21,0.89244,True
+Phosgene Oxime,ON=C(Cl)Cl,Cholinergic,pEC50_hM1,6.43,1.23638,False
+Phosgene Oxime,ON=C(Cl)Cl,Cholinergic,pEC50_hM2,6.38,0.85686,True
+Phosgene Oxime,ON=C(Cl)Cl,Cholinergic,pEC50_hM4,7.5,1.0466199999999999,False
+Phosgene Oxime,ON=C(Cl)Cl,Cholinergic,pEC50_rM4,5.1,1.6751999999999998,False
+Phosgene Oxime,ON=C(Cl)Cl,Cholinergic,pEC50_hM5,5.69,1.29568,False
+Phosgene Oxime,ON=C(Cl)Cl,Cholinergic,pIC50_AChE_HouseMouse,6.11,1.2008,False
+Phosgene Oxime,ON=C(Cl)Cl,Cholinergic,pIC50_AChE_human,4.95,0.88058,True
+Phosgene Oxime,ON=C(Cl)Cl,Cholinergic,pIC50_AChE_Cow,4.97,1.3668399999999998,False
+Phosgene Oxime,ON=C(Cl)Cl,Cholinergic,pIC50_AChE_eel,5.96,0.86872,True
+Phosgene Oxime,ON=C(Cl)Cl,Cholinergic,pIC50_AChE_BrownRat,6.31,0.86872,True
+Phosgene Oxime,ON=C(Cl)Cl,Cholinergic,pIC50_BChE_human,5.59,1.1652200000000001,False
+Phosgene Oxime,ON=C(Cl)Cl,Anticholinergic,pIC50_hM2,6.66,1.35498,False
+Phosgene Oxime,ON=C(Cl)Cl,Anticholinergic,pIC50_rM2,6.03,1.1059199999999998,False
+Phosgene Oxime,ON=C(Cl)Cl,Anticholinergic,pIC50_hM3,6.88,1.0821999999999998,False
+Phosgene Oxime,ON=C(Cl)Cl,Anticholinergic,pIC50_hM4,6.81,0.97546,True
+Phosgene Oxime,ON=C(Cl)Cl,Anticholinergic,pIC50_hM5,6.25,1.0229,False
+Phosgene Oxime,ON=C(Cl)Cl,Anticholinergic,pIC50_hM1,6.67,1.18894,False
+Phosgene Oxime,ON=C(Cl)Cl,Anticholinergic,pIC50_rM1,5.64,1.3194,False
+Phosgene Oxime,ON=C(Cl)Cl,Anticoagulant,,0.74,,False
+Phosgene Oxime,ON=C(Cl)Cl,"Irritant, corrosive",,0.0,,True
+Phosgene Oxime,ON=C(Cl)Cl,Knockdown,,0.74,,False
+Phosgene Oxime,ON=C(Cl)Cl,"Solvents, anesthetics, sedatives",,0.79,,False
+Agmatine,NCCCCN=C(N)N,Opioid,pEC50_Mu,4.05,1.01104,False
+Agmatine,NCCCCN=C(N)N,Opioid,pEC50_Delta,3.85,1.90054,False
+Agmatine,NCCCCN=C(N)N,Opioid,pEC50_Kappa,7.53,1.5921799999999997,False
+Agmatine,NCCCCN=C(N)N,Sympathomimetic,NET_pIC50_rat,4.96,0.98732,True
+Agmatine,NCCCCN=C(N)N,Sympathomimetic,DAT_pIC50_rat,3.55,1.56846,False
+Agmatine,NCCCCN=C(N)N,Sympathomimetic,DAT_pIC50_human,4.99,1.0940599999999998,False
+Agmatine,NCCCCN=C(N)N,Sympathomimetic,B1_pEC50_human,8.52,1.41428,False
+Agmatine,NCCCCN=C(N)N,Sympathomimetic,B3_pEC50_human,2.11,1.50916,False
+Agmatine,NCCCCN=C(N)N,Sympathomimetic,A1a_pEC50_human,3.77,1.42614,False
+Agmatine,NCCCCN=C(N)N,Sympathomimetic,B2_pEC50_human,3.16,1.24824,False
+Agmatine,NCCCCN=C(N)N,Convulsant,pEC50_GluN_e2z1_rat,4.62,0.76198,True
+Agmatine,NCCCCN=C(N)N,Convulsant,pEC50_GluN_e3z1_rat,4.65,0.83314,True
+Agmatine,NCCCCN=C(N)N,Convulsant,pEC50_GlyT1_human,5.9,0.85686,True
+Agmatine,NCCCCN=C(N)N,Convulsant,pEC50_GlyT2_human,4.63,0.51292,True
+Agmatine,NCCCCN=C(N)N,Convulsant,pIC50_GABAa1b2g2_human,5.04,0.61966,True
+Agmatine,NCCCCN=C(N)N,Convulsant,pEC50_GluA_human,4.21,0.76198,True
+Agmatine,NCCCCN=C(N)N,Cholinergic,pEC50_rM1,6.22,0.69082,True
+Agmatine,NCCCCN=C(N)N,Cholinergic,pEC50_hM1,5.12,1.46172,False
+Agmatine,NCCCCN=C(N)N,Cholinergic,pEC50_hM2,6.39,0.65524,True
+Agmatine,NCCCCN=C(N)N,Cholinergic,pEC50_hM4,7.0,0.47734,True
+Agmatine,NCCCCN=C(N)N,Cholinergic,pEC50_rM4,5.17,0.99918,True
+Agmatine,NCCCCN=C(N)N,Cholinergic,pEC50_hM5,4.59,1.50916,False
+Agmatine,NCCCCN=C(N)N,Cholinergic,pIC50_AChE_HouseMouse,5.61,0.8212799999999999,True
+Agmatine,NCCCCN=C(N)N,Cholinergic,pIC50_AChE_human,5.01,1.2601,False
+Agmatine,NCCCCN=C(N)N,Cholinergic,pIC50_AChE_Cow,4.53,0.70268,True
+Agmatine,NCCCCN=C(N)N,Cholinergic,pIC50_AChE_eel,4.29,0.83314,True
+Agmatine,NCCCCN=C(N)N,Cholinergic,pIC50_AChE_BrownRat,4.66,1.0466199999999999,False
+Agmatine,NCCCCN=C(N)N,Cholinergic,pIC50_BChE_human,5.47,0.9161600000000001,True
+Agmatine,NCCCCN=C(N)N,Anticholinergic,pIC50_hM2,7.3,1.0940599999999998,False
+Agmatine,NCCCCN=C(N)N,Anticholinergic,pIC50_rM2,6.61,0.83314,True
+Agmatine,NCCCCN=C(N)N,Anticholinergic,pIC50_hM3,6.42,0.88058,True
+Agmatine,NCCCCN=C(N)N,Anticholinergic,pIC50_hM4,7.02,1.0703399999999998,False
+Agmatine,NCCCCN=C(N)N,Anticholinergic,pIC50_hM5,6.49,0.76198,True
+Agmatine,NCCCCN=C(N)N,Anticholinergic,pIC50_hM1,7.51,1.0821999999999998,False
+Agmatine,NCCCCN=C(N)N,Anticholinergic,pIC50_rM1,5.61,0.7857,True
+Agmatine,NCCCCN=C(N)N,Anticoagulant,,0.74,,False
+Agmatine,NCCCCN=C(N)N,"Irritant, corrosive",,0.74,,False
+Agmatine,NCCCCN=C(N)N,Knockdown,,0.74,,False
+Agmatine,NCCCCN=C(N)N,"Solvents, anesthetics, sedatives",,0.79,,False

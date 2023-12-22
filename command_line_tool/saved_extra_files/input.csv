@@ -1,0 +1,16 @@
+﻿Name,SMILES
+Fentanyl,CCC(=O)N(C1CCN(CCc2ccccc2)CC1)c3ccccc3
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(CC1)c2ccc(Cl)cc2)(c3ccccc3)c4ccccc4
+Phenazocine,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc4ccccc4
+Clobazam,CN1C2=C(C=C(Cl)C=C2)N(C2=CC=CC=C2)C(=O)CC1=O
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O
+CHEMBL2348224,C[C@@]1(C[C@H]1[C@H](N)C(O)=O)C(O)=O
+CHEMBL4099073,CCOc1ccc(OCC2N(CCc3cc(OCC(C)C)ccc23)C(=O)c2cccc(Cl)c2)cc1
+Atropine,CN1C2CCC1CC(C2)OC(=O)C(CO)C3=CC=CC=C3
+Duloxetine,CNCC[C@H](OC1=CC=CC2=CC=CC=C12)C1=CC=CS1
+Cocaine,[H][C@]12CC[C@]([H])([C@H]([C@H](C1)OC(=O)C1=CC=CC=C1)C(=O)OC)N2C
+Procaine,CCN(CC)CCOC(=O)C1=CC=C(N)C=C1
+Meperidine,CCOC(=O)C1(CCN(C)CC1)c2ccccc2
+Rivastigmine,CCN(C)C(=O)OC1=CC=CC(=C1)C(C)N(C)C
+Phosgene Oxime,C(=NO)(Cl)Cl
+Agmatine,C(CCN=C(N)N)CN
