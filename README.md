@@ -10,6 +10,7 @@ This repository contains the data and models used to make Toxidrome's prediction
 - A folder containing the CMPNN models and script
 - A folder containing the DMPNN models and script
 - A folder containing the SEA script
+- A folder containing the complete toxidrome command line tool
 
 ### Compound Data Excel Workbook
 This workbook contains 8 pages, one for each toxidrome we make predictions for (with one exception: cholinergic and anticholinergic predictions are made using the same compounds).
@@ -28,9 +29,11 @@ This folder contains 2 main parts: a folder of models called "toxidromes" and a 
 
 This script runs the DMPNN using these models.
 ### SEA Script
-This folder contains a script to run the similarity ensemble approach and an excel sheet which has the list of compounds used in running the SEA script (these are the same compounds listed in the SEA pages the workbook). 
+This folder contains a script to run the similarity ensemble approach on its own and an excel sheet which has the list of compounds used in running the SEA script (these are the same compounds listed in the SEA pages the workbook). 
 
-### Running the python script
+## Toxidrome Command Line Tool
+
+### Setting up the anaconda enviroment
 To run the python script, you will first need Anaconda installed. From an Anaconda prompt, sut up a new environment using the following commands:
 
 `conda create -n toxidrome python=3.7`
@@ -40,6 +43,8 @@ To run the python script, you will first need Anaconda installed. From an Anacon
 Next, navigate to the "command_line_tool" folder and enter the following command to install Toxidrome's dependencies:
 
 `pip install -r requirements.txt`
+
+### Running the Toxidrome command line tool
 
 Once everything is installed, you can then run the script by running `python toxidrome_clt.py` followed by any of the following tags (including at least 1 that adds compounds to the job):
 - `-h` or `--help`: Shows a help message explaining these tags.
