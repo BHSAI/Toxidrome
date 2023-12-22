@@ -34,7 +34,7 @@ This folder contains a script to run the similarity ensemble approach on its own
 ## Toxidrome Command Line Tool
 
 ### Setting up the anaconda enviroment
-To run the python script, you will first need Anaconda installed. From an Anaconda prompt, sut up a new environment using the following commands:
+To run the python script, you will first need Anaconda installed. From an Anaconda prompt, set up a new environment using the following commands:
 
 `conda create -n toxidrome python=3.7`
 
