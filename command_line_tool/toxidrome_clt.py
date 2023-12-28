@@ -217,13 +217,13 @@ def multiStages(inputs, channels):
         smilesList_filtered = []
         for datapass in datapassList:
             try:
-                isorganic = isOrganicAndHasWeight(datapass.smiles, ORGANIC_COMPOUND_MIN_WEIGHT)
+                isOrganic = isOrganicAndHasWeight(datapass.smiles, ORGANIC_COMPOUND_MIN_WEIGHT)
             except Exception as e:
                 print(e, file=sys.stderr)
                 print(traceback.format_exc(), file=sys.stderr)
-                isorganic = False
+                isOrganic = False
 
-            if isorganic :
+            if isOrganic :
                 smilesList_filtered.append(datapass)
             else:
                 msg = "Filtered inorganic compound or weight less than "+str(ORGANIC_COMPOUND_MIN_WEIGHT)+": "+datapass.smiles
@@ -253,19 +253,19 @@ def multiStages(inputs, channels):
             smilesList_filtered = []
             for datapass in subDatapassList:
                 try:
-                    isorganic = isOrganicAndHasWeight(datapass.smiles, ORGANIC_COMPOUND_MIN_WEIGHT)
+                    isOrganic = isOrganicAndHasWeight(datapass.smiles, ORGANIC_COMPOUND_MIN_WEIGHT)
                 except Exception as e:
                     print(e, file=sys.stderr)
                     print(traceback.format_exc(), file=sys.stderr)
-                    isorganic = False
+                    isOrganic = False
 
-                if isorganic :
+                if isOrganic :
                     smilesList_filtered.append(datapass)
                 else:
                     msg = "Filtered inorganic compound or weight less than "+str(ORGANIC_COMPOUND_MIN_WEIGHT)+": "+datapass.smiles
                     print(msg, file=channels.errorChannel)
 
-            channels.writeStateMsg("Running nerual nework predictions for compounds #" + str(startIndex)+" to #"+str(endIndex))
+            channels.writeStateMsg("Running neural network predictions for compounds #" + str(startIndex)+" to #"+str(endIndex))
             
             try:
                 run_main_models_multiple_compounds(smilesList_filtered, inputs.nnType)
