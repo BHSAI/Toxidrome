@@ -1,4 +1,5 @@
 from os import listdir
+import os
 import chemprop
 import math
 
@@ -6,7 +7,8 @@ from chemprop.train import make_predictions
 
 def run_dmpnn(smiles):
     smiles = [[s] for s in smiles]
-    toxidromes = listdir(f"C:/Users/bclancy/Desktop/projects/toxidrome_clt/dmpnn_toxidrome/toxidromes")
+    dir_path = os.path.dirname(os.path.realpath(__file__))
+    toxidromes = listdir(dir_path+"/toxidromes")
 
     all_preds = {}
     all_acc = {}
@@ -15,7 +17,7 @@ def run_dmpnn(smiles):
         arguments = [
             '--test_path', '/dev/null',
             '--preds_path', '/dev/null',
-            '--checkpoint_dir', f'C:/Users/bclancy/Desktop/projects/toxidrome_clt/dmpnn_toxidrome/toxidromes/{toxidrome}',
+            '--checkpoint_dir', dir_path+'/toxidromes/'+toxidrome,
             '--uncertainty_method', 'ensemble'
         ]
         args = chemprop.args.PredictArgs().parse_args(arguments)
