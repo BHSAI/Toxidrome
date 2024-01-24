@@ -131,7 +131,7 @@ def write_database(datapassList, channel):
                 _ = writer.writerow(newRow)
         for toxidrome in SEA_TOXIDROMES:
             value = datapass.getToxidromeValue(toxidrome)
-            appDomain = value < SEA_THRESHOLD
+            appDomain = value != None and value < SEA_THRESHOLD
             newRow = [datapass.name, datapass.smiles, toxidrome, None, value, None, appDomain]
             _ = writer.writerow(newRow)
 
