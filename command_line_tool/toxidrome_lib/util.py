@@ -125,7 +125,8 @@ def write_database(datapassList, channel):
         for toxidrome in MAIN_TOXIDROMES:
             for subcategory in TOX_CATEGORY[toxidrome]:
                 value, accuracy = datapass.getToxidromeData(toxidrome, subcategory)
-                appDomain = accuracy < AD_CUTOFF
+                if (accuracy != None): accuracy = round(accuracy, ROUND_DIGIT)
+                appDomain = accuracy != None and accuracy < AD_CUTOFF
                 newRow = [datapass.name, datapass.smiles, toxidrome, subcategory, value, accuracy, appDomain]
                 _ = writer.writerow(newRow)
         for toxidrome in SEA_TOXIDROMES:
