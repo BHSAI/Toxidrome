@@ -33,20 +33,27 @@ This folder contains a script to run the similarity ensemble approach on its own
 
 ## Toxidrome Command Line Tool
 
-### Setting up the anaconda environment
-To run the python script, you will first need Anaconda installed. From an Anaconda prompt, set up a new environment using the following commands:
-
-`conda create -n toxidrome python=3.7`
-
-`conda activate toxidrome`
-
-Next, navigate to the "command_line_tool" folder and enter the following command to install Toxidrome's dependencies:
-
-`pip install -r requirements.txt`
+### Setting up the environment
+To run the MONSTROUS Command Line Tool, you will need a Python 3.12 installation and a python environment with the necessary packages installed. To initialize your environment, navigate to the `command_line_tool` directory and run the following:
+``` Powershell
+# Windows
+python -m venv .\.venv
+.\.venv\Scripts\Activate.ps1
+pip install -r .\requirements\requirements-windows.txt
+pip install -r .\requirements\requirements-torch.txt
+```
+``` sh
+# Linux
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements/requirements-linux.txt
+pip install -r requirements/requirements-torch.txt
+```
+**Note:** In the first command, you may need to replace `python` with `python3` or the path to the specific Python installation you want to use. Once your environment is activated, just use `python` for any following commands, such as those in the next section.
 
 ### Running the Toxidrome command line tool
 
-Once everything is installed, you can then run the script by running `python toxidrome_clt.py` followed by any of the following tags (including at least 1 that adds compounds to the job):
+Once your environment is set up and activated,you can run the script by running `python toxidrome_clt.py` followed by any of the following tags (including at least 1 that adds compounds to the job):
 - `-h` or `--help`: Shows a help message explaining these tags.
 - `-i [INPUT]` or `--input [INPUT]`: The file location of a .CSV file whose first column is 'Name' and whose second is 'SMILES' and contains the list of SMILES to be submitted. This tag counts for adding compounds to the job.
 - `-ln [NAMES]` or `--names [NAMES]`: A delimited list of compound names.
@@ -61,6 +68,6 @@ Once everything is installed, you can then run the script by running `python tox
 
 Here is an example prompt:
 
-`python toxidrome_clt.py -i /saved_extra_files/input.csv -o /saved_extra_files/output.csv -f database -nnType cmpnn`
+`python toxidrome_clt.py -i saved_extra_files/input.csv -o saved_extra_files/output-test.csv -f database -nnType cmpnn`
 
-This prompt takes the input csv from "/saved_extra_files" and outputs the output csv from the same directory.
+This prompt takes the input csv from "saved_extra_files/" and outputs the output csv to the same directory.

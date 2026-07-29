@@ -2,3 +2,4 @@
 .vscode/settings.json
 command_line_tool/.vscode/launch.json
 *.pyc
+/.venv

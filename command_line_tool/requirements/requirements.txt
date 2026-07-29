@@ -1,0 +1,14 @@
+chembl-structure-pipeline==1.2.4
+rdkit==2026.3.4
+pillow>=12.3.0
+openpyxl==3.1.5
+numba==0.66.0
+
+# The dependencies below cannot be upgraded without a refactoring of the tool.
+
+# It seems like we are hijacking the CLI implementation of an old version of chemprop. Those functions no longer exist in current versions.
+chemprop==1.6.1
+# chemprop imports an error from numpy that has been moved as of 2.0.0
+numpy==1.26.4
+# Upgrading this will break hyperopt, which chemprop depends on.
+setuptools==80.9.0
